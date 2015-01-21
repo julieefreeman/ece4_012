@@ -1,4 +1,3 @@
 # ece_4012
 
-####How to setup your computer to run this app: 
-Notice: this was done on a Mac running OS X 10.10.1
+### Please document issues/how to resolve them and setup steps in the OneNote folder for others to reference!
